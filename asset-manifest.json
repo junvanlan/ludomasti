@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ludomasti/static/css/main.57b7ed21.css",
+    "main.js": "/ludomasti/static/js/main.4557542b.js",
+    "static/js/787.68b7d612.chunk.js": "/ludomasti/static/js/787.68b7d612.chunk.js",
+    "static/media/ludoking.eb7ef0ee.png": "/ludomasti/static/media/ludoking.eb7ef0ee.42ac64a74c711788ed35.png",
+    "static/media/ludo.0c656053.png": "/ludomasti/static/media/ludo.0c656053.9b33fc84e1a06fd176d6.png",
+    "index.html": "/ludomasti/index.html",
+    "main.57b7ed21.css.map": "/ludomasti/static/css/main.57b7ed21.css.map",
+    "main.4557542b.js.map": "/ludomasti/static/js/main.4557542b.js.map",
+    "787.68b7d612.chunk.js.map": "/ludomasti/static/js/787.68b7d612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b7ed21.css",
+    "static/js/main.4557542b.js"
+  ]
+}
