@@ -1,0 +1,42 @@
+.wrapper {
+    width: 484px;
+    height: 48px;
+    padding-left: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    color: #e0ddda;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    width: 412px;
+    height: 48px;
+    display: flex;
+    margin-left: 16px;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    border-bottom: 1px solid #3e3e3f;
+}
+
+.tonext {
+    color: #616161;
+    height: 24px;
+    padding-right: 16px;
+}
+
+.bold-600 {
+    font-weight: 600;
+}
+
+.noborder {
+    border-bottom: none;
+}

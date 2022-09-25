@@ -1,0 +1,33 @@
+.wrapper {
+    width: 452px;
+    height: 36px;
+    border-radius: 4px;
+    background-color: #009886;
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    position: relative;
+    transition-duration: 0.3s;
+    transform: translate(0);
+    &:active {
+        opacity: 0.7;
+    }
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+}
+
+.name {
+    font-size: 14px;
+    margin-left: 6px;
+}
+
+.big {
+    width: 468px;
+    height: 48px;
+}

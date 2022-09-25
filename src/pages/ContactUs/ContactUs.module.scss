@@ -1,0 +1,41 @@
+.wrapper {
+    color: #fff;
+    margin: 0 16px;
+}
+
+.title {
+    font-size: 1.4rem;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+.introduce {
+    font-size: 1.4rem;
+    margin-top: 12px;
+}
+
+.address-wrapper {
+    display: flex;
+    margin-top: 32px;
+    justify-content: center;
+    align-items: center;
+}
+
+.material-icons {}
+
+.mail-address {
+    color: rgb(132, 215, 0);
+    font-size: 1.7rem;
+    margin-left: 4px;
+}
+
+.phone {
+    margin-top: 14px;
+    font-size: 1.4rem;
+}
+
+.address {
+    margin-top: 14px;
+    font-size: 1.4rem;
+    font-style: italic;
+}

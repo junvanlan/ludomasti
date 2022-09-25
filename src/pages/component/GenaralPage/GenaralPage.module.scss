@@ -1,0 +1,15 @@
+.wrapper {
+    max-width: 500px;
+    height: 100vh;
+    background-color: var(--main-background);
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.button-wrapper {
+    margin: 32px 0;
+    padding: 16px;
+    background-color: #1c1c1d;
+    display: flex;
+    justify-content: center;
+}

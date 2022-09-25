@@ -1,0 +1,52 @@
+.wrapper {
+    max-width: 500px;
+    height: 100vh;
+    background-color: var(--main-background);
+    overflow-y: auto;
+    overflow-x: hidden;
+    color: #fff;
+}
+
+.header {
+    height: 64px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #222222;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.logo-wrapper {
+    width: 100%;
+    margin: 32px 0;
+    text-align: center;
+}
+
+.login-logo {
+    width: 100px;
+}
+
+.guide {
+    margin: 0 16px;
+    font-size: 1.35rem;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 0.41px;
+}
+
+.login-box {
+    width: 100%;
+    padding: 10px 0;
+    margin: 15px 0;
+    background-color: #1c1c1d;
+    border-top: 1px solid #3e3e3f;
+    border-bottom: 1px solid #3e3e3f;
+}
+
+.send-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

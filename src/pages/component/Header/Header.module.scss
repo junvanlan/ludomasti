@@ -1,0 +1,23 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0 7px;
+    span {
+        color: #e0e0e0;
+        width: 30px;
+        height: 30px;
+        font-size: 30px;
+    }
+    h3 {
+        color: #e0e0e0;
+        font-size: 24px;
+        margin-left: 4px;
+    }
+}
+
+.line-buttom {
+    color: rgb(62, 62, 62);
+    height: 0px;
+    border-style: dashed;
+}
